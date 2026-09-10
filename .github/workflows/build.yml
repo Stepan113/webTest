@@ -29,7 +29,7 @@ jobs:
           --windowed
           --name "LoveYou"
           --add-data "love_you.mp3;."
-          main.py
+          heart.py
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
