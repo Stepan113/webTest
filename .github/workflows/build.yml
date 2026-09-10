@@ -27,7 +27,7 @@ jobs:
           pyinstaller
           --onefile
           --windowed
-          --name "LoveYou"
+          --name "webAppAsyncTest"
           --add-data "love_you.mp3;."
           heart.py
 
